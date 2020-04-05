@@ -46,7 +46,7 @@ The Python scripts can also be executed in the terminal after the prerequisite l
 
 ## Deployment
 
-![Program Flow](https://octodex.github.com/images/yaktocat.png)
+![Program Flow](https://github.com/WikusKriek/Face_Quality_Predictor/blob/master/Flow_Face_Quality_Predictor.jpg)
 
 ### Features
 
